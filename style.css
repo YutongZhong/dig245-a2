@@ -2,11 +2,17 @@ body {
   background: #f2f2f2;
   text-align: center;
   font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #6600cc;
+}
+
+p {
+  color: #3333ff;
 }
 
 ol {
   margin-left: 35%;
   text-align: left;
+  color: #3333ff;
 }
 
 table {
@@ -25,5 +31,10 @@ tr {
 }
 
 th, td {
+  color: #3333ff;
   padding: 8px;
+}
+
+#icon {
+  text-align: left;
 }
