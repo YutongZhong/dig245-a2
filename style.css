@@ -1,0 +1,29 @@
+body {
+  background: #f2f2f2;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ol {
+  margin-left: 35%;
+  text-align: left;
+}
+
+table {
+  margin: 20px auto;
+  width: 80%;
+}
+
+thead th {
+  background: #88ccf1;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+tr {
+  background: #ffffff;
+}
+
+th, td {
+  padding: 8px;
+}
